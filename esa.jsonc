@@ -1,0 +1,10 @@
+{
+  "name": "ai-element",
+  "installCommand": "pnpm install",
+  "assets": {
+    "directory": "./out"
+  },
+  "dev": {
+    "port": 18080
+  }
+}
